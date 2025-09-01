@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> hello thisnag-world ABCDEF TASK 90000000  2025 sep 1st  </h1>
+         <h1> hello thisnag-world INDIA AP 1st  </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
